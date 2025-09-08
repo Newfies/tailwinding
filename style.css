@@ -1,0 +1,14 @@
+.bgcolor1 {
+    background-color: #ea458e;
+}
+
+.txtcolor1 {
+    color: #fac5d7;
+    text-shadow: 4px 4px 4px #3b2157;
+}
+
+.txtcolor1::selection {
+    background-color: #3b2157;
+    color: #f5ea14;
+    text-shadow: 2px 2px 2px #efc7dd;
+}
